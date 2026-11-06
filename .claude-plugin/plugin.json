@@ -1,0 +1,19 @@
+{
+  "name": "artisan-ui",
+  "version": "0.1.0",
+  "description": "Design intelligence and frontend craftsmanship: an adaptive design interview, persistent design profile, curated color/type/layout/motion libraries, and a screenshot-based visual QA loop that avoids generic AI-looking interfaces.",
+  "author": {
+    "name": "ShrekAstley"
+  },
+  "keywords": [
+    "design",
+    "ui",
+    "ux",
+    "frontend",
+    "typography",
+    "motion",
+    "design-system"
+  ],
+  "repository": "https://github.com/ShrekAstley/artisan-ui",
+  "license": "MIT"
+}

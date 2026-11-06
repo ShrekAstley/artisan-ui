@@ -1,0 +1,11 @@
+{
+  "name": "artisan-ui",
+  "owner": { "name": "ShrekAstley" },
+  "plugins": [
+    {
+      "name": "artisan-ui",
+      "source": "./",
+      "description": "Design intelligence and frontend craftsmanship: adaptive design interview, persistent design profile, curated color/type/layout/motion libraries, and screenshot-based visual QA."
+    }
+  ]
+}

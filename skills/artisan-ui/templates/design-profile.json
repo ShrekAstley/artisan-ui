@@ -1,0 +1,50 @@
+{
+  "identity": {
+    "name": "Project",
+    "category": "Desktop productivity",
+    "personality": [
+      "technical",
+      "refined",
+      "minimal"
+    ]
+  },
+  "visual": {
+    "theme": "dark",
+    "themeNotes": "",
+    "palette": "obsidian-cobalt",
+    "typography": {
+      "display": "",
+      "body": "Geist",
+      "mono": "Geist Mono"
+    },
+    "density": "balanced",
+    "radius": "subtle"
+  },
+  "layout": {
+    "navigation": "collapsible-sidebar",
+    "content": "split-workspace",
+    "responsive": true,
+    "responsiveNotes": ""
+  },
+  "motion": {
+    "preset": "precision",
+    "microInteractions": true,
+    "pageTransitions": true,
+    "proceduralEffects": "selective"
+  },
+  "principles": [
+    "information-first",
+    "purposeful-decoration",
+    "consistent-spacing"
+  ],
+  "motif": "",
+  "shapeLanguage": "",
+  "colorPhilosophy": "",
+  "spatialComposition": "",
+  "interactionPersonality": "",
+  "status": {
+    "phase": "specification",
+    "score": null,
+    "updated": ""
+  }
+}
