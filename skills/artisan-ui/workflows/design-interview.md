@@ -49,7 +49,7 @@ Order is a guide; skip or merge freely. Each question lists answer options; alwa
 
 ### Stage 2 - Visual personality (B)
 - **Direction option** (from table above) and any combination.
-- **Reference points**: any product or site whose feel you like (or dislike)? (leads to reference analysis)
+- **Reference points**: any product or site whose feel you like (or dislike)? (leads to reference analysis; if they name Linear, Vercel, Raycast, Stripe or similar SaaS, load `references/product-references.md` and extract principles, never clone)
 - **Anti-goals**: what must it never feel like? (corporate, childish, cluttered, cold, trendy)
 - **Boldness**: understated / balanced / statement.
 
