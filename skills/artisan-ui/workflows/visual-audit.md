@@ -167,3 +167,6 @@ Per criterion, score against the fraction of its weight: **100%** only if you vi
 - Add `--force-device-scale-factor=1` or DPI scaling shrinks the effective viewport.
 - Use a throwaway profile: `--user-data-dir=<temp> --headless=new --disable-gpu --screenshot=<png> --window-size=W,H file:///...`.
 - Headless screenshots cannot test hover, drag, or keyboard. Use the browser pane tools or Playwright for those; otherwise mark them unverified.
+
+## Website principles check (websites and landing pages)
+In addition to the rubric, answer pass/fail with evidence for the five questions in `references/website-principles.md`: Mirror (5-second test of the first screen), Highlighter (primary action obvious, accent keeps its meaning), Depth (back/middle/front distinguishable), Motion (each animation demonstrates, directs, or reveals), Free Sample (a genuinely useful tool or demo is reachable without signup). Failing Mirror or Highlighter blocks acceptance.

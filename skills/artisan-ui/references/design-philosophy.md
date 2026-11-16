@@ -146,3 +146,6 @@ These files are documentation plus a token source. Adapt them into the project's
 - Does the screen survive empty, loading, error, long-text and small-screen states?
 - Did I explain the direction (rule 12) rather than just show it?
 - Did I stay inside the preservation rules?
+
+## Website principles
+For websites, apply the five principles in `references/website-principles.md` (Mirror Test, Highlighter Rule, Front/Middle/Back, Motion with a Job, Free Sample). Core belief: design should reduce effort, not create spectacle.

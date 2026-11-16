@@ -209,3 +209,6 @@ Call AskUserQuestion with options: "Approve", "Adjust", "Explore alternatives".
 - Do not load `references/*-library.md` files before the stage that needs them.
 - Do not proceed to implementation without explicit approval (or the user delegating the whole decision).
 - Do not write `.artisan/` files until approval; then hand off to exploration/spec.
+
+## Website add-on (when the product is a website or landing page)
+Ask (batch with other stages): who exactly is the visitor and what frustration or goal do they arrive with; the single outcome they get; the one primary action; what small free tool or demo could prove the value before asking for anything (see the Free Sample in `references/website-principles.md`). If delegated, draft the mirror headline, subhead, and CTA yourself and present them for approval.

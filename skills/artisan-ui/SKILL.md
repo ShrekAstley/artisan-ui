@@ -37,7 +37,7 @@ Five priorities: **individuality, coherence, professionalism, interaction qualit
 | 7 Motion | Add purposeful motion with the smallest tech. | `references/motion-engine.md` |
 | 8–10 Verify, refine, audit | Run app, screenshot 4 viewports, score, fix, document limits. | `workflows/visual-audit.md`, `references/responsive-design.md`, `references/accessibility.md` |
 
-Other references: `references/product-references.md` (study Linear, Vercel, Raycast, Stripe and other SaaS for principles, never to clone; load when the user names a product or wants a "modern SaaS" feel), `references/design-philosophy.md` (identity template, decision log), `examples/*.md` (benchmark profiles: dashboard, desktop-app, editorial, creative-tool), `templates/design-profile.json`, `templates/design-brief.md`.
+Websites, landing pages, storefronts: also load `references/website-principles.md` (Mirror Test, Highlighter Rule, Front/Middle/Back, Motion with a Job, Free Sample). These five principles govern copy, hierarchy, depth, motion, and conversion and must be reflected in the spec and audited. Other references: `references/product-references.md` (study Linear, Vercel, Raycast, Stripe and other SaaS for principles, never to clone; load when the user names a product or wants a "modern SaaS" feel), `references/design-philosophy.md` (identity template, decision log), `examples/*.md` (benchmark profiles: dashboard, desktop-app, editorial, creative-tool), `templates/design-profile.json`, `templates/design-brief.md`.
 
 ## Small vs large projects
 
